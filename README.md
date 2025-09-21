@@ -1,6 +1,6 @@
 ## Machine Learning Projects
 
-This repository contains Machine Learning projects using libraries such as `scikit-learn` and `PyTorch`.
+A collection of **Machine Learning** and **Deep Learning** projects implemented with frameworks including `PyTorch`, `TensorFlow`, `scikit-learn` and `HuggingFace`.
 
 ### 📂 Projects
 - **Titanic Survival Prediction**
