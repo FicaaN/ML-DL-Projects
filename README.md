@@ -5,8 +5,12 @@ This repository contains Machine Learning projects using libraries such as `scik
 ### 📂 Projects
 - **Titanic Survival Prediction**
   - Models: Logistic Regression, Random Forest Classifier, Support Vector Machine (SVM)
-  - Libraries: `scikit-learn`, `pandas`, `matplotlib`, `seaborn`
+  - Libraries: `scikit-learn`
 
 - **Waste Image Classification**
-  - Model: ConvNeXt Small (CNN, transfer learning)
-  - Libraries: `PyTorch`, `torchvision`, `scikit-learn`, `numpy`, `matplotlib`, `seaborn`
+  - Models: ConvNeXt Small (CNN, transfer learning)
+  - Libraries: `PyTorch`, `scikit-learn`
+
+- **Pneumonia Detection CNN**
+  - Model: Custom CNN
+  - Libraries: `PyTorch`, `scikit-learn`
