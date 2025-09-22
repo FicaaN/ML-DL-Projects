@@ -1,6 +1,6 @@
 ## Machine Learning Projects
 
-A collection of **Machine Learning** and **Deep Learning** projects implemented with frameworks including `PyTorch`, `TensorFlow` & `scikit-learn`.
+A collection of **Machine Learning** and **Deep Learning** projects implemented with frameworks including `PyTorch`, `TensorFlow` and `scikit-learn`.
 
 ### 📂 Projects
 
