@@ -4,7 +4,7 @@ A collection of **Machine Learning** and **Deep Learning** projects implemented 
 
 ### 📂 Projects
 
-- **Pneumonia Detection CNN**
+- **Pneumonia Detection from Chest X-Rays using CNN**
   - Model: Custom CNN
   - Libraries: `PyTorch`, `scikit-learn`
     
