@@ -7,6 +7,10 @@ A collection of **Machine Learning** and **Deep Learning** projects implemented 
 - **Pneumonia Detection from Chest X-Rays using CNN**
   - Model: Custom CNN
   - Libraries: `PyTorch`, `scikit-learn`
+
+- **Retinal Diseases Classification from OCT Images**
+  - Model: Custom CNN
+  - Libraries: `PyTorch`, `scikit-learn`
     
 - **Titanic Survival Prediction**
   - Models: Logistic Regression, Random Forest Classifier, Support Vector Machine (SVM)
