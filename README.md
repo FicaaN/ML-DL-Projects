@@ -3,7 +3,14 @@
 A collection of **Machine Learning** and **Deep Learning** projects implemented with frameworks including `PyTorch` and `scikit-learn`.
 
 ### 📂 Projects
+- **K-Nearest Neighbors (KNN) from Scratch**
+  - Model: Custom KNN
+  - Libraries: `Python`
 
+- **Linear Regression from Scratch**
+  - Model: Custom Linear Regression
+  - Libraries: `Python`
+  
 - **Pneumonia Detection from Chest X-Rays using CNN**
   - Model: Custom CNN
   - Libraries: `PyTorch`, `scikit-learn`
