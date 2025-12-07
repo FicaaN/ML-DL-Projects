@@ -1,6 +1,6 @@
-## Machine Learning Projects
+## AI / ML / DL Projects
 
-A collection of **Machine Learning** and **Deep Learning** projects implemented with frameworks including `PyTorch` and `scikit-learn`.
+A collection of **AI**, **Machine Learning** and **Deep Learning** projects implemented in `Python`.
 
 ### 📂 Projects
 - **K-Nearest Neighbors (KNN) from Scratch**
