@@ -18,6 +18,10 @@ A collection of **Machine Learning** and **Deep Learning** projects implemented 
 - **Retinal Diseases Classification from OCT Images**
   - Model: Custom CNN
   - Libraries: `PyTorch`, `scikit-learn`
+
+- **Simple AI Agent**
+  - Model: Hugging Face API Model
+  - Libraries: `Python`
     
 - **Titanic Survival Prediction**
   - Models: Logistic Regression, Random Forest Classifier, Support Vector Machine (SVM)
