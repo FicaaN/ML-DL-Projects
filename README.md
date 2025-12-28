@@ -30,3 +30,7 @@ A collection of **AI**, **Machine Learning** and **Deep Learning** projects impl
 - **Waste Image Classification**
   - Models: ConvNeXt Small (CNN, transfer learning)
   - Libraries: `PyTorch`, `scikit-learn`
+
+- **Weather Classification Monitoring (Prometheus & Grafana)**
+  - Model: Fully Connected Neural Network
+  - Libraries: `PyTorch`, `scikit-learn`, `Prometheus`, `Grafana`
